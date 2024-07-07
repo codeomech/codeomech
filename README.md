@@ -1,7 +1,7 @@
 <h1 align="center">Hi,I'm Hersheyt</h1>
 <h3 align="center">Love programming and finance</h3>
 
-- 🔭 I’m currently working on **Zzzzzzz(Food delievery app)**
+- 🔭 I’m currently working on **Netflix GPT**
 
 - 🌱 I’m currently learning **React JS**
 
