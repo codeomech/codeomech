@@ -1,9 +1,9 @@
 <h1 align="center">Hi,I'm Hersheyt</h1>
 <h3 align="center">Love programming and finance</h3>
 
-- 🔭 I’m currently working on **My Personal Portfolio**
+- 🔭 I’m currently working on **Ecommerce website for a client**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **harshitmangla16@gmail.com**
 
